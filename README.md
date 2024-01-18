@@ -8,4 +8,4 @@ The goal of the game is for players to position their marks so that they make a 
 
 The game is designed using HTML & CSS for the structure and style then uses JAVASCRIPT for it to be interactive.
 
-Netlify link : 
+# Netlify link : http://tic-tac-toe-mne.netlify.app
